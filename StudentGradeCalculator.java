@@ -18,6 +18,6 @@ public class StudentGradeCalculator {
     public static void main(String[] args) {
         StudentGradeCalculator calculator = new StudentGradeCalculator();
 
-        System.out.println("Grade: " + calculator.calculateGrade(95));
+        System.out.println("Grade: " + calculator.calculateGrade(87));
     }
 }
